@@ -22,16 +22,13 @@ Jangan ragu untuk terhubung jika Anda tertarik untuk berdiskusi tentang keamanan
 
 ### 📞 Connect With Me
 <p align="center">
-  <a href="LINK_LINKEDIN_ANDA" target="_blank">
+  <a href="https://www.linkedin.com/in/huga-hazimulfikri-nawawi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="LINK_DISCORD_ANDA" target="_blank">
+  <a href="https://discordapp.com/users/869118209230516254" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="LINK_INSTAGRAM_ANDA" target="_blank">
+  <a href="https://www.instagram.com/hhfn01__/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="LINK_FACEBOOK_ANDA" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
