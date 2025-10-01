@@ -4,7 +4,7 @@
 
 <div align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFFF&center=true&width=550&lines=Hi,+I'm+Huga+Hazimulfikri+Nawawi;Aspiring+Red+Teamer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFFF&width=550&lines=Hi,+I'm+Huga+Hazimulfikri+Nawawi;I'm+a+Cyber+Security+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
