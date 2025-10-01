@@ -2,10 +2,11 @@
   <img src="https://github.com/HugaHazimulfikri/HugaHazimulfikri/blob/main/Zero%20Two.jpg" alt="Banner"/>
 </p>
 
-<h2 align="left">
-  <span style="color: #00FFFF;">Cyber Security</span> </h2>
-
----
+<div align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFFF&width=435&lines=Cyber+Security" alt="Typing SVG" />
+  </a>
+</div>
 
 ### 👨‍💻 About Me
 
