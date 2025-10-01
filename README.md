@@ -7,10 +7,14 @@
 ---
 
 ### 👨‍💻 Tentang Saya
-Halo dan selamat datang di profil saya! Saya Muhammad Nafis Fadhil, lulusan SMK Muhammadiyah Bligo jurusan Teknik Komputer dan Jaringan. Saat ini, saya sedang menempuh pendidikan Teknik Informatika di Universitas Dian Nuswantoro (UDINUS), didorong oleh hasrat yang mendalam di bidang pengembangan web.
-<br>
-(Tambahkan deskripsi lain sesuai keinginan Anda)
-<br>
+
+Halo dan selamat datang di profil saya! Perkenalkan, saya Huga Hazimulfikri Nawawi, seorang mahasiswa yang penuh semangat dan memiliki rasa ingin tahu yang besar terhadap dunia teknologi.
+
+Sebagai lulusan dari **SMA Negeri 2 Tegal**, saya membangun fondasi awal saya sebelum akhirnya melanjutkan perjalanan di bidang teknologi. Saat ini, saya sedang aktif menempuh pendidikan di program studi Teknik Informatika di **Universitas Dian Nuswantoro (UDINUS)**.
+
+Di sini, saya tidak hanya belajar tentang kode, tetapi juga tentang bagaimana merancang solusi inovatif yang dapat memberikan dampak positif. Saya bercita-cita untuk menjadi seorang pengembang profesional yang terus belajar dan beradaptasi dengan perkembangan teknologi yang pesat.
+
+Jangan ragu untuk terhubung jika Anda tertarik untuk berkolaborasi, berdiskusi, atau sekadar berbagi pengetahuan. Terima kasih telah mengunjungi profil saya!
 ---
 
 ### 📊 Statistik
