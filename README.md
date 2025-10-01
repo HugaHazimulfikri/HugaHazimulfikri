@@ -2,7 +2,7 @@
   <img src="https://github.com/HugaHazimulfikri/HugaHazimulfikri/blob/main/Zero%20Two.jpg" alt="Banner"/>
 </p>
 
-<h2 align="center">BackEnd Developer</h2>
+<h2 align="center">Cyber Security</h2>
 
 ---
 
