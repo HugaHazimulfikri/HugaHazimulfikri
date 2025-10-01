@@ -10,13 +10,13 @@
 
 ### 👨‍💻 About Me
 
-Halo dan selamat datang di profil saya! Perkenalkan, saya Huga Hazimulfikri Nawawi, seorang mahasiswa yang penuh semangat dan memiliki rasa ingin tahu yang besar terhadap dunia teknologi, terutama di bidang keamanan siber.
+Hi there! I'm Huga Hazimulfikri Nawawi, an Informatics Engineering student at **UDINUS** driven by a deep passion for cybersecurity.
 
-Sebagai lulusan dari **SMA Negeri 2 Tegal**, saya membangun fondasi awal saya sebelum akhirnya melanjutkan perjalanan di bidang teknologi. Saat ini, saya sedang aktif menempuh pendidikan di program studi Teknik Informatika di **Universitas Dian Nuswantoro (UDINUS)**.
+My journey in tech began at **SMA Negeri 2 Tegal** and has since led me down the path of understanding how to secure the digital world. I'm not just learning to code; I'm learning to think like an attacker to find weaknesses before they can be exploited.
 
-Di sini, saya tidak hanya belajar tentang cara membangun perangkat lunak, tetapi juga mendalami cara kerja sistem untuk menemukan celah keamanan dan memperkuat pertahanan digital. Saya memiliki cita-cita yang jelas untuk menjadi seorang Cyber Security Pentester profesional, di mana saya bisa menggunakan keahlian saya untuk membantu organisasi melindungi aset dan data penting mereka dari ancaman siber.
+My mission is to build a career as a professional Cyber Security Pentester, dedicated to fortifying digital infrastructures and protecting valuable data. I am constantly learning and seeking new challenges in the offensive security space.
 
-Jangan ragu untuk terhubung jika Anda tertarik untuk berdiskusi tentang keamanan siber, proyek kolaborasi, atau sekadar berbagi pengetahuan. Terima kasih telah mengunjungi profil saya!
+I'm always open to collaboration or a good conversation about cybersecurity. Let's connect!
 ---
 
 
