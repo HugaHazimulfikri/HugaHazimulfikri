@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 Tentang Saya
+### 👨‍💻 About Me
 
 Halo dan selamat datang di profil saya! Perkenalkan, saya Huga Hazimulfikri Nawawi, seorang mahasiswa yang penuh semangat dan memiliki rasa ingin tahu yang besar terhadap dunia teknologi, terutama di bidang keamanan siber.
 
@@ -17,17 +17,8 @@ Di sini, saya tidak hanya belajar tentang cara membangun perangkat lunak, tetapi
 Jangan ragu untuk terhubung jika Anda tertarik untuk berdiskusi tentang keamanan siber, proyek kolaborasi, atau sekadar berbagi pengetahuan. Terima kasih telah mengunjungi profil saya!
 ---
 
-### 📊 Statistik
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=dracula&rank_icon=github" alt="Statistik GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=dracula" alt="Bahasa Pemrograman" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_ANDA&theme=dracula" alt="GitHub Streak" />
-</p>
 
----
-
-### 📞 Terhubung dengan Saya
+### 📞 Connect With Me
 <p align="center">
   <a href="LINK_LINKEDIN_ANDA" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
